@@ -1,0 +1,38 @@
+{
+  "login": [
+    {
+      "name": "admin",
+      "password": "admin"
+    }
+  ],
+  "task": [
+    {
+      "currentState": "Pending",
+      "title": "Buy Milk",
+      "des": "From Store",
+      "created": "2020-07-05",
+      "due": "2020-07-06",
+      "priority": "High",
+      "id": 1
+    },
+    {
+      "currentState": "Completed",
+      "title": "Buy Grocery",
+      "des": "from Market",
+      "created": "2020-07-05",
+      "due": "2020-07-07",
+      "priority": "Medium",
+      "id": 2
+    },
+    {
+      "currentState": "Pending",
+      "title": "Buy Sweets",
+      "des": "Get Sweets",
+      "created": "2020-08-05",
+      "due": "2020-08-05",
+      "priority": "Low",
+      "data": "",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+.form-group{
+    text-align: left;
+}
+
+.addicon{
+    width: 35px;
+    background-color: DodgerBlue;
+    border-radius: 50%;
+    color: white;
+    padding-top: 5px;
+    height: 35px;
+    float: right;
+    padding-left: 10px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.upclass{
+   
+    margin: auto;
+    
+}
+
+.group{
+    width: 30%;
+    float: left;
+}
+
+.search{
+    margin-left: 50px;
+    text-align: left;
+    width: 45%;
+    float: left;
+}
+
+.login{
+    width: 50%;
+    margin: auto;
+    padding: 8%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.login p{
+    margin-top: 20px;
+    font-size: 12px;
+}
+
+.times{
+   
+    font-size: 26px;
+    padding: 4px;
+   
+    position: relative;
+    top: -40px;
+    left: 50%;
+    color: grey;
+}
