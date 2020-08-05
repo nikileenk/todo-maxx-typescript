@@ -131,7 +131,6 @@ class TaskList extends Component<Props,Stateitem> {
     handleClose(){
         this.setState({show:false,show1:false})
         this.props.history.push('/');
-        // window.location.href = "/";
     }
 
     search(key:any) {
